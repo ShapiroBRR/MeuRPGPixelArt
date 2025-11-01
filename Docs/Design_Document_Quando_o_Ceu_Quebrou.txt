@@ -1,0 +1,127 @@
+
+🎮 QUANDO O CÉU QUEBROU — DOCUMENTO DE DESIGN (v1)
+Data de criação: 01/11/2025
+
+----------------------------------------------------------
+📖 CONTEXTO DO MUNDO
+Um mundo moderno foi destruído por uma explosão no espaço que abriu uma Fenda entre planos.
+Seres celestiais desceram para ajudar, mas ficaram presos — e, com o tempo, se tornaram
+seres distorcidos pelo ódio e sofrimento. O que restou da humanidade se adaptou a uma era
+híbrida entre o antigo e o moderno: armas perderam força, e magias ancestrais renasceram.
+
+O protagonista (Ena ou Vaelor) perdeu os pais durante o caos e cresceu em ruínas,
+aprendendo a sobreviver em meio a criaturas criadas a partir da Fenda.
+
+----------------------------------------------------------
+🧙 PERSONAGEM PRINCIPAL
+Nome: Ena (feminino) ou Vaelor (masculino)
+História: órfão(a) desde criança, sobreviveu em meio à destruição e caos.
+Personalidade: introspectivo(a), maduro(a) e determinado(a) — não sabe ser “o escolhido”.
+Crescimento: evolui fisicamente e espiritualmente conforme o jogador toma decisões e enfrenta traumas.
+
+----------------------------------------------------------
+⚔️ SISTEMA DE CLASSES
+A classe é determinada de forma inconsciente durante o início do jogo, por ações do jogador.
+Exemplo: proteger alguém → Guardião; criar algo → Alquimista; prever ataque → Oráculo.
+Não há menu de escolha: as ações definem o destino.
+
+Classes jogáveis:
+- Guardião (defesa e fé)
+- Arcanista (magia destrutiva)
+- Oráculo (visão e controle)
+- Alquimista (poções e manipulação)
+- Invocador (entidades e suporte ofensivo)
+
+----------------------------------------------------------
+🌌 SISTEMA DE AFINIDADE
+A afinidade é moldada pelas atitudes do jogador e refletida no mundo.
+
+Tipos:
+- Luz → empatia, esperança, defesa
+- Sombra → ambição, poder, sacrifício
+- Eco → equilíbrio, adaptação, dúvida
+
+O mundo reage:
+- Luz → cenários ganham brilho e aura dourada
+- Sombra → sombras pulsantes e tons frios
+- Eco → distorções e fragmentos vibrantes
+
+NPCs e inimigos mudam de comportamento conforme a aura do jogador.
+
+----------------------------------------------------------
+🛡️ SISTEMA DE EQUIPAMENTOS E EVOLUÇÃO
+Itens refletem a progressão espiritual e material do jogador.
+
+Raridades:
+Comum → Refinado → Ancestral → Divino
+
+A evolução depende de materiais e essência obtidos em combate.
+Visual e efeitos das armaduras mudam com afinidade e raridade.
+
+Afinidade visual:
+- Luz: brilho dourado e runas
+- Sombra: rachaduras e véus escuros
+- Eco: fragmentos flutuantes
+
+----------------------------------------------------------
+⚗️ CRAFTING E RECURSOS
+- Poções de nível baixo: compráveis, limite de uso.
+- Poções médias: craftáveis livremente.
+- Poções altas: raras, dropadas por elites (como Lorde Vampiro).
+
+Itens lendários são únicos, obtidos por eventos e chefes.
+Forja: chance de falha aumenta com raridade, podendo gerar corrupção.
+
+----------------------------------------------------------
+👾 MOBS E CHEFES
+Mobs comuns:
+- Goblins corrompidos
+- Bestas da Fenda
+- Ecos humanos
+- Vampiros fracos
+
+Chefes:
+- Lorde Vampiro (dropa poções raras)
+- Herege (rival do protagonista)
+- Eco Primordial (manifestação viva da Fenda)
+
+Chefes adaptam padrões de ataque conforme a afinidade do jogador.
+
+----------------------------------------------------------
+🌍 MUNDO
+Ambientes misturam ruínas modernas com arquitetura divina quebrada.
+Regiões principais:
+- Floresta da Ruptura
+- Vila dos Ecos
+- Torre do Lamento
+- Templo da Fenda
+
+----------------------------------------------------------
+🎭 SISTEMA DE ESCOLHAS
+As decisões não são binárias, mas sutis — ações e reações determinam a narrativa.
+O jogador raramente percebe que está “escolhendo”.
+O Herege observa e comenta as decisões, reforçando a ideia de destino.
+
+----------------------------------------------------------
+🔥 OBJETIVO PRINCIPAL
+Ena/Vaelor busca entender o que realmente aconteceu na Fenda e por que os seres divinos
+se voltaram contra os humanos. No processo, descobre que a própria alma carrega parte
+da energia da Fenda — a chave para restaurar ou destruir o mundo.
+
+----------------------------------------------------------
+🎨 ETAPAS DE PRODUÇÃO
+1. Criar sprites base (Ena/Vaelor)
+2. Criar mobs básicos
+3. Mapear primeira área jogável
+4. Testar movimentação e colisão no Godot
+5. Adicionar combate inicial
+6. Integrar o sistema de afinidade e progressão
+
+----------------------------------------------------------
+STATUS DO PROJETO:
+✅ História e contexto definidos  
+✅ Classes e afinidades criadas  
+✅ Sistema de crafting, loot e raridades pronto  
+✅ Escolha de classe orgânica  
+✅ Afinidade moral + reações do mundo  
+🔜 Próximo passo: criação visual (protagonistas e mobs)
